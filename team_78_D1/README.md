@@ -1,7 +1,6 @@
 Deliverable 1 - Team 78
 Name: Sehr Chowdhury
 
-
 Contents:
 1. Booking
 2. BookingsWindow - Displays bookings and allows user to cancel selected bookings.
